@@ -4,6 +4,7 @@
 and compares if there are any viarables non defined , it will generate a file report for the operator 
 
 Basically it was created for me to help me for a specific task in order to save time
+# and this is simple %(test)s , to test vars %(here)s
 
 
 

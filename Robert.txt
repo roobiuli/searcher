@@ -1,0 +1,8 @@
+numai Un singur %(MA_RE)s lolza 
+part ... numz 
+
+%(variabil_speciala_:))s
+
+
+
+$(lol)s
